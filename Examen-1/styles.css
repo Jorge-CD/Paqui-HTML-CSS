@@ -1,0 +1,69 @@
+
+#estatica{
+
+}
+
+#relativa{
+
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+#absoluta{
+
+    position: absolute;
+    left: 20px;
+
+}
+
+#fija{
+
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+
+}
+
+
+
+
+
+
+
+
+
+body {
+
+    background: gray;
+}
+
+.fondo-red {
+    background: red;
+}
+
+.fondo-green {   
+    background: green;
+}
+
+.fondo-blue {
+    background: blue;
+}
+
+.fondo-yellow {
+    background: yellow;
+}
+
+.tam-20x10 {
+
+    width: 200px;
+    height: 100px;
+}
+
+.padd-5 {
+    border-style: solid;
+    margin: 10px;
+    border-width: 20px;
+    border-color: black;
+    padding: 5px;
+}
